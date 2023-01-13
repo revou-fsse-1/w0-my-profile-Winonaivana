@@ -2,9 +2,7 @@
 
 I am a currently a student studying bachelors in Accounting. However I have no plans on working in the finance industry because I realised it wasn't my passion. At a 4 years old, I picked up a coloured pencil and started expressing my thoughts. I have been creating artworks since then and realised that is my happy place. Here is one of my recent paintings.
 
-![alt text][def]
-
-[def]: IMG_0156.jpg
+![lol]["C:\Users\Woowoobanana\Downloads\IMG_0156.jpg"]
 
 Years passed, I began to understand that creativity is not only about art. I can implement it in different situations or other subjects unrelated to art. 
 
